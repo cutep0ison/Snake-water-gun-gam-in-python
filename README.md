@@ -1,1 +1,1 @@
-# Snake-water-gun-gam-in-python
+# Snake-water-gun-game-in-python
